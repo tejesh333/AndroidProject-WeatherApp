@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork03</string>
+    <string name="apiKey">w46zHB11MXVQQt2ML4AUJ5v1tjYwtgcc</string>
+    <string name="title_activity_city_weather">CityWeather</string>
+</resources>
